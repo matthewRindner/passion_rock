@@ -1,0 +1,3 @@
+Handling mouse events using cv2.setMouseCallback() : https://www.youtube.com/watch?v=b1J7w5Cb0V0
+Image Segmentation with grabCut  and Gsussian_blur : https://github.com/Aman-Preet-Singh-Gulati/image-segmentation-opencv/blob/main/image%20segmentation%20opencv%20blog%20updated.ipynb
+color spaces and Gaussian blur img segmentation : https://realpython.com/python-opencv-color-spaces/
